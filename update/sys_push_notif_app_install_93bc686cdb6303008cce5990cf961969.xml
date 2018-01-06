@@ -2,12 +2,12 @@
 <record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2017-12-11 19:10:57</last_registered_on>
+        <last_registered_on>2018-01-05 18:26:02</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>Admin</sys_created_by>
-        <sys_created_on>2017-12-11 19:10:57</sys_created_on>
+        <sys_created_on>2018-01-05 18:26:02</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>6147c020db4303008cce5990cf961997</sys_id>
+        <sys_id>93bc686cdb6303008cce5990cf961969</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>dMtgJmDRQv0:APA91bEmyRWRG49PDPHQPqe0Cer3fR-MAqyPHjnKFxpLRcf4JTr0jbyriXsemGiwTaTEzU52HMTOtWmjeiko2ijbuCSLjWNpNaosmnZG5PI3hLuHO88E614tW6y-dZYdmvO-_d-kAIyV</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -16,9 +16,9 @@
         <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_push_notif_app_install_6147c020db4303008cce5990cf961997</sys_update_name>
+        <sys_update_name>sys_push_notif_app_install_93bc686cdb6303008cce5990cf961969</sys_update_name>
         <sys_updated_by>Admin</sys_updated_by>
-        <sys_updated_on>2017-12-11 19:10:57</sys_updated_on>
+        <sys_updated_on>2018-01-05 18:26:02</sys_updated_on>
         <sys_user_id display_value="Trevor Trac">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>dMtgJmDRQv0:APA91bEmyRWRG49PDPHQPqe0Cer3fR-MAqyPHjnKFxpLRcf4JTr0jbyriXsemGiwTaTEzU52HMTOtWmjeiko2ijbuCSLjWNpNaosmnZG5PI3hLuHO88E614tW6y-dZYdmvO-_d-kAIyV</token>
     </sys_push_notif_app_install>
